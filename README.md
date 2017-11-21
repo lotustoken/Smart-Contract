@@ -87,7 +87,7 @@ Routine to distribute or transfer collected ETHs from crowd-sale to various addr
 
 ## Contributing
 
-We are currently basing our Contributing code of conduct and pull request submission process on the one found at  [CONTRIBUTING.md] (contributing.md)
+We are currently basing our Contributing code of conduct and pull request submission process on the one found at  [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 
 ## Version Control
 
@@ -99,13 +99,13 @@ We use GitHub's built-in versions control system.
 
 * **iamthehighway** - *Senior Developer*
 
-* **Mahlory Ambrosio** - *Junior Developer*
+* **Mahlory A.** - *Junior Developer*
 
 * **Samuel S.** - *Initial Setup of [Lotus Token](https://github.com/lotustoken) organization on GitHub; Documentation Manager; Junior Developer*
 
 ## License
 
-License for this project is still being discussed but the team is leaning toward going open-source. See the [LICENSE.md](License.md) file for details on various available licenses.
+License for this project is still being discussed but the team is leaning toward going open-source. See the [LICENSE.md](https://github.com/lotustoken/Smart-Contract/blob/2b21a1756dc67e4b7a631463f74ab85fa80df3bc/LICENSE) file for details on various available licenses.
 
 ## Acknowledgments
 
