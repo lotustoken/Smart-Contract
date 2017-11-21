@@ -1,4 +1,4 @@
-# LOTUS TOKEN NETWORK Smart Contract
+# LOTUS TOKEN Smart Contract
 
 The Lotus Token Network Smart Contract is being coded using Solidity, the [contract-oriented high-level programming language](https://solidity.readthedocs.io/en/develop/) designed to target the Ethereum Virtual Machine (EVM).
 
